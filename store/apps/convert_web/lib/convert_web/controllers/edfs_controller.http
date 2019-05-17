@@ -1,0 +1,11 @@
+
+POST http://192.168.2.56:4401/send_file HTTP/1.1
+Accept: application/json
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryHXP2uiQSX6TtKzsz
+
+------WebKitFormBoundaryHXP2uiQSX6TtKzsz
+Content-Disposition: form-data; name="file"; filename="644908921.zip"
+Content-Type: image/jpeg
+
+< /Users/huangke/Desktop/ayou/work/QA/pdf/out/644908921.zip
+------WebKitFormBoundaryHXP2uiQSX6TtKzsz--

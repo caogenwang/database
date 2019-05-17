@@ -1,0 +1,6 @@
+
+POST http://0.0.0.0:14001/store/add_file_index HTTP/1.1
+Accept: application/json
+content-type: application/json; charset=utf-8
+
+{"zip_size":254356,"width":595.5,"version":"1.5.0","page_server":"http://page.douding.cn/huangke","page_count":2,"id":"572305673","host_name":"dfs_store_003","height":842.25,"format":"doc","file_size":112322,"converted_by":"convert_worker_39","basejs":"http://page.douding.cn/huangke/files/pdf.f091f632752307fd2ef4.js","basecss":"http://page.douding.cn/huangke/files/pdf.0651f630f38dc6bdd8c1776d2fa9f58c.css"}

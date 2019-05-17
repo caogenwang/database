@@ -1,0 +1,12 @@
+export env=dev
+export AppName=dfs_store
+export Docker_name=six_$AppName
+export AppPath=dfs/store
+export AppRoot=/Applications/$AppPath
+export SERVER_NAME=six_$AppName
+export PORT=18601
+export MY_NODE_NAME=$PORT@$Local_IP
+export SWAGGER_URL="http://192.168.2.56"
+export DENGTA_URL="http://192.168.2.56:15600/api/services"
+export SERVER_URL="http://$Local_IP:$PORT"
+export REPLACE_OS_VARS=true 

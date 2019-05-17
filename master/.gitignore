@@ -1,0 +1,8 @@
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+mix.lock
+/docker-test
+.elixir_ls
